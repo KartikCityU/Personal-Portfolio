@@ -94,7 +94,7 @@ const skills = {
 const education = {
   icon: '/assets/resume/cap.svg',
   title: 'My education',
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium minus ut nesciunt unde, saepe doloribus fugiat facere molestias, quo in ab laborum incidunt atque quas omnis dolorum cumque iure cum.",
+  description: "I am currently pursuing Bachelor of Science in Computer Science at city University of Hong Kong, My specialization lies in Artificial Intelligence and Computer Vision Technologies.",
   items: [
     {
       institution: "City University of Hong Kong",
