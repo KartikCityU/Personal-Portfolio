@@ -16,7 +16,7 @@ import { motion } from "framer-motion";
 
 const about = {
     title: 'About me',
-    description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium minus ut nesciunt unde, saepe doloribus fugiat facere molestias, quo in ab laborum incidunt atque quas omnis dolorum cumque iure cum.",
+    description: "I am Kartik, a final-year student at City University of Hong Kong, majoring in Computer Science. I have a keen interest in full-stack development and the latest advancements in the field of artificial intelligence.",
     info:[
       {
         fieldName : "Name",
