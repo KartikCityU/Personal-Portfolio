@@ -50,7 +50,7 @@ const about = {
 }
 const skills = {
   title: 'My Skills',
-  description: "M",
+  description: "",
   skillList: [
     {
       icon:<FaHtml5/>,
@@ -107,7 +107,7 @@ const education = {
 const experience = {
   icon: '/assets/resume/badge.svg',
   title: 'My experience',
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium minus ut nesciunt unde, saepe doloribus fugiat facere molestias, quo in ab laborum incidunt atque quas omnis dolorum cumque iure cum.",
+  description: "Results-driven computer science graduate specializing in software engineering, with expertise in full-stack development and Artificial Intelligence. Skilled in problem-solving, project management, and delivering solutions under tight deadlines. Proficient in building scalable systems and leveraging AI for innovative applications. Strong communicator with a focus on collaboration and client relationships. Eager to contribute technical and analytical skills to impactful software and AI projects.",
   items: [
     {
       company:"Expando",
